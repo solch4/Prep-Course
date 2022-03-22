@@ -1,0 +1,9 @@
+for: es un bucle que sirve para realizar tareas repetitivas. for(){}. Dentro de los paréntesis necesitaremos
+tres cosas. Primero, declarar una variable. Luego tendremos una expresión condicional (sobre lo 
+que se repetirá el bucle), el ciclo continuará sucediendo hasta que esta declaración sea false. Tercero, 
+incrementaremos nuestra variable. Las tres declaraciones están separadas por un punto y coma.
+&&: and evalúa ambas expresiones y devuelve true si ambas expresiones son verdaderas. Si una (o ambas) de
+ellas es falsa, este operador devolverá false. es true solo si los dos operandos son true. 
+||: or determina si una de las expresiones es true. Devolverá true si una (o ambas) de las expresiones es
+true. Devolverá false si AMBAS expresiones son false.
+!: not devuelve el valor booleano opuesto de lo que se le pasa. 
