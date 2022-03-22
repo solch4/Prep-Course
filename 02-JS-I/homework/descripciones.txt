@@ -1,0 +1,11 @@
+1) Variables: Una variable es una forma de almacenar el valor de algo para usar más tarde. Para crear una
+variable en JavaScript se usa la palabra clave 'var', seguida de un espacio y el nombre de la variable. Además
+de declarar una variable, podemos asignarle un valor usando el signo '='.
+Strings: son 'cadenas' de caracteres. es un bloque de texto escrito entre comillas simples o dobles.
+Funciones (argumentos, return): las funciones son tipos particulares de objetos, llamados calable objects u 
+objetos invocables, por lo que tienen las mismas propiedades que cualquier objeto. necesitamos funciones
+para hacer algo con las variables. entre los parentesis se puede declarar una variable para usar dentro de la
+misma función, esto se conoce como argumento. lo más probable es que al usar una función se quiera devolver
+algo, entonces se usa la declaración 'return' para retornar el resultado de la misma.
+Declaraciones if: sirve para agregar una condición a la función y que ésta verifique si algo es true o no.
+Valores booleanos (true, false): en JS se usa para significar verdadero (true) o falso (false).
