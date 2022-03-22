@@ -1,0 +1,3 @@
+Array (matrices o arreglos): sirven como contenedores de almacenamiento para colecciones de datos (strings, 
+numeros, booleeanos, null o undefined). Para construir un array se declara una variable y se establece en [].
+Luego se agregan al contenedor los datos (separados por una coma).
