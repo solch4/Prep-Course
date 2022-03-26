@@ -1,0 +1,3 @@
+Funciones Callbacks (cb): es la capacidad de pasar una función como argumento a otro función (una función dentro de
+otra función). Pueden llamarse en cualquier momento y pasar argumentos dentro de la función. Se usa 'cb' como
+argumento para la variable que se usará de callback.  
